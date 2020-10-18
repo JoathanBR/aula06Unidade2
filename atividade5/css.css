@@ -1,0 +1,14 @@
+.externo h2{
+    background-color: #add8e6;
+    color: #04048c;
+}
+
+.externo h3{
+    color: #8a1b1c;
+}
+
+.externo {
+    background-color: #b0c4de;
+    border: solid 1px black;
+    padding: 5px;
+}
